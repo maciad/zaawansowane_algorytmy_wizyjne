@@ -1,3 +1,7 @@
 # image files
 *.jpg
 *.png
+
+# macOS files
+.DS_Store
+Thumbs.db
